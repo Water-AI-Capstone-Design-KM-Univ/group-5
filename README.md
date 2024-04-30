@@ -25,5 +25,6 @@ Q-5: AI알고리즘으로 제시한 Faster R-CNN은 활용이 가능한가?
      
 3. 실습 Site
    - https://huggingface.co/spaces/Xenova/segment-anything-webgpu
-   - 
+   - https://huggingface.co/spaces/sam-hq-team/sam-hq
+   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Water-AI-Capstone-Design-KM-Univ/segment-anything.git/HEAD)
 
