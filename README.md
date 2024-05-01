@@ -27,8 +27,9 @@
    - **(Segmentation Anything Demo Website)** https://segment-anything.com/demo
    - **(Huggingface Spaces Segmentation Anything)** https://huggingface.co/spaces/Xenova/segment-anything-web
    - **(Huggingface Spaces Demo)** https://huggingface.co/spaces/sam-hq-team/sam-hq
-   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Water-AI-Capstone-Design-KM-Univ/segment-anything.git/HEAD)
   
    - **(Recognize Anything Model)** https://huggingface.co/spaces/xinyu1205/recognize-anything
 
    - **(Large Language and Vision Assistant)** https://llava.hliu.cc/    Prompts: Segment cracks on concrete
+     
+   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Water-AI-Capstone-Design-KM-Univ/segment-anything.git/HEAD) The use of CPU has kernel kill problem on Jupyter notebook in Binder environment.
